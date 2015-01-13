@@ -54,8 +54,8 @@
     <Compile Include="Services\BookSearchServiceTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Book\BookBuilderTest.cs" />
-    <Compile Include="GoogleApiBookSearchIntegrationTest.cs" />
-    <Compile Include="GoogleApiBookWrapperTest.cs" />
+    <Compile Include="GoogleApi\GoogleApiBookSearchIntegrationTest.cs" />
+    <Compile Include="GoogleApi\GoogleApiBookWrapperTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WcfServiceLibrary1\WcfBookServiceLibrary.csproj">
@@ -64,10 +64,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="fixtures\google-api-impact-mapping.json" />
+    <EmbeddedResource Include="GoogleApi\fixtures\google-api-impact-mapping.json" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="fixtures\google-api-not-found.json" />
+    <EmbeddedResource Include="GoogleApi\fixtures\google-api-not-found.json" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

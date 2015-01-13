@@ -48,8 +48,8 @@
   <ItemGroup>
     <Compile Include="Book\BookBuilder.cs" />
     <Compile Include="Book\BookInfo.cs" />
-    <Compile Include="GoogleApiBookWrapper.cs" />
-    <Compile Include="GoogleApiIsbnSearchInvoker.cs" />
+    <Compile Include="GoogleApi\GoogleApiBookWrapper.cs" />
+    <Compile Include="GoogleApi\GoogleApiIsbnSearchInvoker.cs" />
     <Compile Include="Book\IBookInfo.cs" />
     <Compile Include="Services\IBookSearchService.cs" />
     <Compile Include="IsbnSearchInvoker.cs" />
