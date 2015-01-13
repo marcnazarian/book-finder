@@ -1,10 +1,12 @@
 ﻿using System.Collections.Generic;
 
-namespace WcfBookServiceLibrary
+namespace WcfBookServiceLibrary.Book
 {
     public class BookInfo : IBookInfo
     {
-
+        /// <summary>
+        /// Mandatory empty constructor required by JavaScriptSerializer
+        /// </summary>
         public BookInfo() { }
 
         public string Title { get; set; }

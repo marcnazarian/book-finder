@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace WcfBookServiceLibrary
+namespace WcfBookServiceLibrary.Book
 {
     public interface IBookInfo
     {

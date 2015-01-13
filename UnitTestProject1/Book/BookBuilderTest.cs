@@ -1,8 +1,8 @@
 ﻿using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using WcfBookServiceLibrary;
+using WcfBookServiceLibrary.Book;
 
-namespace UnitTestProject1
+namespace WcfBookServiceLibraryTest.Book
 {
     [TestClass]
     public class BookBuilderTest

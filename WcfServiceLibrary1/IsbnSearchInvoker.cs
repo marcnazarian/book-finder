@@ -1,4 +1,6 @@
-﻿namespace WcfBookServiceLibrary
+﻿using WcfBookServiceLibrary.Book;
+
+namespace WcfBookServiceLibrary
 {
 
     public interface IsbnSearchInvoker

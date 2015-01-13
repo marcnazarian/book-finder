@@ -1,8 +1,9 @@
 ﻿using System.IO;
 using System.Net;
 using System.Web.Script.Serialization;
+using WcfBookServiceLibrary.Book;
 
-namespace WcfBookServiceLibrary
+namespace WcfBookServiceLibrary.GoogleApi
 {
     public class GoogleApiIsbnSearchInvoker : IsbnSearchInvoker
     {
@@ -15,7 +16,6 @@ namespace WcfBookServiceLibrary
             
             HttpWebRequest request = WebRequest.Create(googleApiBookIsbnSearchUrl) as HttpWebRequest;
 
-            // Get response  
             using (HttpWebResponse response = request.GetResponse() as HttpWebResponse)
             {
                 if (response.StatusCode == HttpStatusCode.OK)

@@ -1,12 +1,13 @@
 ﻿using System;
+using System.IO;
 using System.Linq;
 using System.Reflection;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.IO;
 using System.Web.Script.Serialization;
-using WcfBookServiceLibrary;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using WcfBookServiceLibrary.Book;
+using WcfBookServiceLibrary.GoogleApi;
 
-namespace UnitTestProject1
+namespace WcfBookServiceLibraryTest.GoogleApi
 {
     [TestClass]
     public class GoogleApiBookWrapperTest

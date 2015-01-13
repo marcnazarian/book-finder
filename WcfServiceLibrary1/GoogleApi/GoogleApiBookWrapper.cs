@@ -1,7 +1,7 @@
-﻿using System.Dynamic;
-using System.Linq;
+﻿using System.Linq;
+using WcfBookServiceLibrary.Book;
 
-namespace WcfBookServiceLibrary
+namespace WcfBookServiceLibrary.GoogleApi
 {
     public class GoogleApiBookWrapper
     {

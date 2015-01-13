@@ -1,4 +1,4 @@
-﻿namespace WcfBookServiceLibrary
+﻿namespace WcfBookServiceLibrary.Book
 {
     public class BookBuilder
     {

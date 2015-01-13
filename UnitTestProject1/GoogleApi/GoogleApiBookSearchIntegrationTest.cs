@@ -1,9 +1,12 @@
 ﻿using System.Linq;
+using System.Web.Script.Serialization;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using WcfBookServiceLibrary;
-using System.Web.Script.Serialization;
+using WcfBookServiceLibrary.Book;
+using WcfBookServiceLibrary.GoogleApi;
+using WcfBookServiceLibrary.Services;
 
-namespace UnitTestProject1
+namespace WcfBookServiceLibraryTest.GoogleApi
 {
     [TestClass]
     public class GoogleApiBookSearchIntegrationTest

@@ -2,6 +2,9 @@
 using System.Web.Script.Serialization;
 using System.Windows.Forms;
 using WcfBookServiceLibrary;
+using WcfBookServiceLibrary.Book;
+using WcfBookServiceLibrary.GoogleApi;
+using WcfBookServiceLibrary.Services;
 
 namespace BookFinder
 {

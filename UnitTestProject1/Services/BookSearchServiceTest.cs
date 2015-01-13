@@ -1,11 +1,12 @@
-﻿using System;
-using System.Linq;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using WcfBookServiceLibrary;
+﻿using System.Linq;
 using System.Web.Script.Serialization;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NMock;
+using WcfBookServiceLibrary;
+using WcfBookServiceLibrary.Book;
+using WcfBookServiceLibrary.Services;
 
-namespace UnitTestProject1
+namespace WcfBookServiceLibraryTest.Services
 {
     [TestClass]
     public class BookSearchTest
@@ -54,18 +55,17 @@ namespace UnitTestProject1
         [TestMethod]
         public void ReturnsNullWhenIsbnIsNotFound()
         {
-            string wrongIsbn = WrongIsbn;
             IBookInfo bookInfo = null;
 
             MockFactory mockFactory = new MockFactory();
             Mock<IsbnSearchInvoker> isbnSearchInvokerMocked = mockFactory.CreateMock<IsbnSearchInvoker>();
             isbnSearchInvokerMocked.Expects.One.Method(invoker => invoker.GetBookInfo(null))
-                .With(wrongIsbn)
+                .With(WrongIsbn)
                 .WillReturn(bookInfo);
 
             BookSearchService bookSearchService = new BookSearchService(isbnSearchInvokerMocked.MockObject);
 
-            string jsonBookInfo = bookSearchService.GetBookInfo(wrongIsbn);
+            string jsonBookInfo = bookSearchService.GetBookInfo(WrongIsbn);
 
             Assert.IsNull(jsonBookInfo);
         }

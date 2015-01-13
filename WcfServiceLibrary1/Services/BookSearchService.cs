@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Web.Script.Serialization;
+using WcfBookServiceLibrary.Book;
 
-namespace WcfBookServiceLibrary
+namespace WcfBookServiceLibrary.Services
 {
     public class BookSearchService : IBookSearchService
     {
