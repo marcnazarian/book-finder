@@ -1,8 +1,0 @@
-D:\_dev_\book-finder\UnitTestProject1\bin\Debug\WcfBookServiceLibraryTest.dll
-D:\_dev_\book-finder\UnitTestProject1\bin\Debug\WcfBookServiceLibraryTest.pdb
-D:\_dev_\book-finder\UnitTestProject1\bin\Debug\NMock3.dll
-D:\_dev_\book-finder\UnitTestProject1\bin\Debug\WcfBookServiceLibrary.dll
-D:\_dev_\book-finder\UnitTestProject1\bin\Debug\WcfBookServiceLibrary.pdb
-D:\_dev_\book-finder\UnitTestProject1\obj\Debug\WcfBookServiceLibraryTest.csprojResolveAssemblyReference.cache
-D:\_dev_\book-finder\UnitTestProject1\obj\Debug\WcfBookServiceLibraryTest.dll
-D:\_dev_\book-finder\UnitTestProject1\obj\Debug\WcfBookServiceLibraryTest.pdb
