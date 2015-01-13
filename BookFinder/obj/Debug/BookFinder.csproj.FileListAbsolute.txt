@@ -1,0 +1,33 @@
+C:\Users\marc.nazarian\Documents\Visual Studio 2013\Projects\BookSearchWS\BookFinder\bin\Debug\BookFinder.exe.config
+C:\Users\marc.nazarian\Documents\Visual Studio 2013\Projects\BookSearchWS\BookFinder\bin\Debug\BookFinder.exe
+C:\Users\marc.nazarian\Documents\Visual Studio 2013\Projects\BookSearchWS\BookFinder\bin\Debug\BookFinder.pdb
+C:\Users\marc.nazarian\Documents\Visual Studio 2013\Projects\BookSearchWS\BookFinder\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\marc.nazarian\Documents\Visual Studio 2013\Projects\BookSearchWS\BookFinder\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\marc.nazarian\Documents\Visual Studio 2013\Projects\BookSearchWS\BookFinder\obj\Debug\BookFinder.csprojResolveAssemblyReference.cache
+C:\Users\marc.nazarian\Documents\Visual Studio 2013\Projects\BookSearchWS\BookFinder\obj\Debug\BookFinder.BookFinderForm.resources
+C:\Users\marc.nazarian\Documents\Visual Studio 2013\Projects\BookSearchWS\BookFinder\obj\Debug\BookFinder.Properties.Resources.resources
+C:\Users\marc.nazarian\Documents\Visual Studio 2013\Projects\BookSearchWS\BookFinder\obj\Debug\BookFinder.csproj.GenerateResource.Cache
+C:\Users\marc.nazarian\Documents\Visual Studio 2013\Projects\BookSearchWS\BookFinder\obj\Debug\BookFinder.exe
+C:\Users\marc.nazarian\Documents\Visual Studio 2013\Projects\BookSearchWS\BookFinder\obj\Debug\BookFinder.pdb
+D:\_dev_\BookSearchWS\BookFinder\bin\Debug\BookFinder.exe.config
+D:\_dev_\BookSearchWS\BookFinder\obj\Debug\BookFinder.exe
+D:\_dev_\BookSearchWS\BookFinder\obj\Debug\BookFinder.pdb
+D:\_dev_\BookSearchWS\BookFinder\bin\Debug\BookFinder.exe
+D:\_dev_\BookSearchWS\BookFinder\bin\Debug\BookFinder.pdb
+D:\_dev_\BookSearchWS\BookFinder\bin\Debug\WcfServiceLibrary1.dll
+D:\_dev_\BookSearchWS\BookFinder\bin\Debug\WcfServiceLibrary1.pdb
+D:\_dev_\BookSearchWS\BookFinder\obj\Debug\BookFinder.csprojResolveAssemblyReference.cache
+D:\_dev_\BookSearchWS\BookFinder\obj\Debug\BookFinder.BookFinderForm.resources
+D:\_dev_\BookSearchWS\BookFinder\obj\Debug\BookFinder.Properties.Resources.resources
+D:\_dev_\BookSearchWS\BookFinder\obj\Debug\BookFinder.csproj.GenerateResource.Cache
+D:\_dev_\book-finder\BookFinder\bin\Debug\BookFinder.exe.config
+D:\_dev_\book-finder\BookFinder\obj\Debug\BookFinder.exe
+D:\_dev_\book-finder\BookFinder\obj\Debug\BookFinder.pdb
+D:\_dev_\book-finder\BookFinder\bin\Debug\BookFinder.exe
+D:\_dev_\book-finder\BookFinder\bin\Debug\BookFinder.pdb
+D:\_dev_\book-finder\BookFinder\obj\Debug\BookFinder.csprojResolveAssemblyReference.cache
+D:\_dev_\book-finder\BookFinder\obj\Debug\BookFinder.BookFinderForm.resources
+D:\_dev_\book-finder\BookFinder\obj\Debug\BookFinder.Properties.Resources.resources
+D:\_dev_\book-finder\BookFinder\obj\Debug\BookFinder.csproj.GenerateResource.Cache
+D:\_dev_\book-finder\BookFinder\bin\Debug\WcfBookServiceLibrary.dll
+D:\_dev_\book-finder\BookFinder\bin\Debug\WcfBookServiceLibrary.pdb
