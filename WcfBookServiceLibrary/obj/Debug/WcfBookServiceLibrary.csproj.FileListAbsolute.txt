@@ -20,3 +20,4 @@ D:\_dev_\book-finder\WcfBookServiceLibrary\bin\Debug\WcfBookServiceLibrary.dll
 D:\_dev_\book-finder\WcfBookServiceLibrary\bin\Debug\WcfBookServiceLibrary.pdb
 D:\_dev_\book-finder\WcfBookServiceLibrary\obj\Debug\WcfBookServiceLibrary.dll
 D:\_dev_\book-finder\WcfBookServiceLibrary\obj\Debug\WcfBookServiceLibrary.pdb
+D:\_dev_\book-finder\WcfBookServiceLibrary\obj\Debug\WcfBookServiceLibrary.csprojResolveAssemblyReference.cache
